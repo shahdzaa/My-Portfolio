@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://shahedzaarouri.netlify.app/sitemap.xml
